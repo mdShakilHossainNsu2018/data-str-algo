@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/structer.dir/main.cpp.o  -o structer 
