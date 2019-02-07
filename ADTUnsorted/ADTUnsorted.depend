@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1549033363 source:d:\cse-225-lab\adtunsorted\unsortedtype.cpp
+	"unsortedtype.h"
+
+1549033023 d:\cse-225-lab\adtunsorted\unsortedtype.h
+
+1549038135 source:d:\cse-225-lab\adtunsorted\main.cpp
+	<iostream>
+	"unsortedtype.cpp"
+
+1549033363 d:\cse-225-lab\adtunsorted\unsortedtype.cpp
+	"unsortedtype.h"
+
+1549038136 source:c:\users\mvpit-nac211\desktop\ds-cl-05\adtunsorted\main.cpp
+	<iostream>
+	"unsortedtype.cpp"
+
+1549033364 c:\users\mvpit-nac211\desktop\ds-cl-05\adtunsorted\unsortedtype.cpp
+	"unsortedtype.h"
+
+1549033024 c:\users\mvpit-nac211\desktop\ds-cl-05\adtunsorted\unsortedtype.h
+
+1549033364 source:c:\users\mvpit-nac211\desktop\ds-cl-05\adtunsorted\unsortedtype.cpp
+	"unsortedtype.h"
+
