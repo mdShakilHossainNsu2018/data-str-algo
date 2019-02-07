@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1532916018 source:c:\users\mbstu\dropbox\nsu\data structure\ds-cl-07\lab-6 (sortedtype-arraybased)\itemtype.cpp
+	"ItemType.h"
+
+1532916016 c:\users\mbstu\dropbox\nsu\data structure\ds-cl-07\lab-6 (sortedtype-arraybased)\itemtype.h
+	<iostream>
+
+1532916028 source:c:\users\mbstu\dropbox\nsu\data structure\ds-cl-07\lab-6 (sortedtype-arraybased)\main.cpp
+	<iostream>
+	"SortedType.h"
+
+1532916022 c:\users\mbstu\dropbox\nsu\data structure\ds-cl-07\lab-6 (sortedtype-arraybased)\sortedtype.h
+	"ItemType.h"
+
+1532916028 source:c:\users\mbstu\dropbox\nsu\data structure\ds-cl-07\lab-6 (sortedtype-arraybased)\sortedtype.cpp
+	"SortedType.h"
+
